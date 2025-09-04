@@ -1,0 +1,19 @@
+{
+  "name": "programadores-do-amanha",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A project for Programadores do Amanhã course exercises.",
+  "main": "aula02.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeferson1709/Programadores-do-amanha.git"
+  },
+  "keywords": [],
+  "author": "Jeferson1709",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeferson1709/Programadores-do-amanha/issues"
+  },
+  "homepage": "https://github.com/Jeferson1709/Programadores-do-amanha#readme"
+}
