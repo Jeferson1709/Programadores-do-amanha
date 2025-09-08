@@ -7,6 +7,7 @@ for - não depende de uma variável externa. contator definido.
 
                 let carros[...] 
     carros.lenght => Sabemos o tamanho do array.
+: recycle : refactor:
 
                 let saldo = 0; 
                 saldo = saldo +1;
@@ -52,3 +53,4 @@ for (let i = 0; i < carros.length; i++) {
 }
 //carros na posição [0]
 // console.log(carros[0]);
+function soma() {}
