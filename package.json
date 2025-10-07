@@ -4,7 +4,6 @@
   "type": "module",
   "description": "A project for Programadores do Amanhã course exercises.",
   "main": "aula02.js",
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jeferson1709/Programadores-do-amanha.git"
@@ -15,5 +14,12 @@
   "bugs": {
     "url": "https://github.com/Jeferson1709/Programadores-do-amanha/issues"
   },
-  "homepage": "https://github.com/Jeferson1709/Programadores-do-amanha#readme"
+  "homepage": "https://github.com/Jeferson1709/Programadores-do-amanha#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node A5.js"
+  },
+  "dependencies": {
+    "zod": "^4.1.11"
+  }
 }
